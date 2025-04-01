@@ -63,8 +63,7 @@ O objetivo é claro: empoderar qualquer pessoa — experiente ou iniciante — a
 ### 2. Clonar o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/vibe-coding-toolkit.git
-cd vibe-coding-toolkit
+git clone https://github.com/Bruno-LSo/Vibe-Coding-Toolkit.git
 ```
 
 ### 3. Executar no VSCode
